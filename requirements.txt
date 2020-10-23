@@ -1,0 +1,16 @@
+filelock==3.0.12
+Flask==1.1.2
+Flask-SQLAlchemy==2.4.4
+Flask-WTF==0.14.3
+Pillow==7.2.0
+convertapi==1.4.0
+azure-cognitiveservices-vision-computervision==0.6.0
+azure-common==1.1.25
+azure-graphrbac==0.61.1
+azure-mgmt-authorization==0.61.0
+azure-mgmt-containerregistry==2.8.0
+azure-mgmt-keyvault==2.2.0
+azure-mgmt-resource==10.2.0
+azure-mgmt-storage==11.2.0
+azureml==0.2.7
+azureml-core==1.13.0
